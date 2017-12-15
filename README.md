@@ -7,11 +7,11 @@ Fin du readme
 # Test d'ecriture code
 
 ## code en python
-
+```
 def foo():
     if not bar:
         return True
-       
+```       
        
 ## code en bash
 
