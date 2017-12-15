@@ -15,16 +15,15 @@ def foo():
        
 ## code en bash
 
-```bashscript```
-
+```bashscript
 echo "Hello World"
 exit 0
 ```
 
 ## code en sql
+
 ```
 SELECT champ1, champ2
 FROM monschema.matable
 WHERE unchamp=ok
-
 ```
